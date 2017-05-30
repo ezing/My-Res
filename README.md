@@ -1,7 +1,7 @@
 # 我的资源文件夹
 ##学习、资源、文件等
 - [Gulp教程](/README.md)
-- [JavaScript 资源大全](JavaScript 资源大全.MD)
+- [JavaScript 资源大全]()
 - [Node.js中文资料导航](Node.js中文资料导航.MD)
 - [前端开发知识结构](前端开发知识结构.MD)
 - [前端面试题](前端面试题.MD)
